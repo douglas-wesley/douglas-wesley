@@ -1,7 +1,7 @@
 # Bem vindos ao meu perfil!
 
 ## 👨‍💻 Quem sou eu?
-Meu nome é Douglas Wesley e tenho 17 anos. Sou um programador iniciante voltado para Backend, atuamente autonomo, que pretende cursar CC ou ADS em alguma faculdade.
+Meu nome é Douglas Wesley, sou um programador iniciante voltado para Backend com ênfase na linguagem C# e PHP.
 
 ## 🖥 Tecnologias e Ferramentas
 ### 🎖 Possuo dominio

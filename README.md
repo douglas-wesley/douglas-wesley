@@ -1,7 +1,7 @@
 # Bem vindos ao meu perfil!
 
 ## 👨‍💻 Quem sou eu?
-Meu nome é Douglas Wesley, sou um programador iniciante no âuge da minha carreira como Desenvolvedor Web, estou cursando Sistemas de Informação pela Universidade Federal Rural de Pernambuco e pretendo me tornar um Software Engineer no futuro.
+Meu nome é Douglas Wesley, sou um programador iniciante no auge da minha carreira como Desenvolvedor Web, estou cursando Sistemas de Informação pela Universidade Federal Rural de Pernambuco e pretendo me tornar um Software Engineer no futuro.
 
 ## 🖥 Tecnologias e Ferramentas
 ### 🎖 Possuo dominio

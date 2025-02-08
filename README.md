@@ -8,7 +8,7 @@
 
 ### 📌 About Me:
 - 🎓 Studying **Information Systems** at UFRPE.
-- 📝 Developing the **Study Cycle** app using **Kivy**.
+- 📝 Back-end Developer in Python at the moment
 - 🏋️‍♂️ Balancing studies and a healthy lifestyle!
 
 ---

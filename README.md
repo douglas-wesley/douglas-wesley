@@ -16,7 +16,7 @@
 ### 🛠️ Technologies & Tools:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,python,flask,java,c,css,html,js,mysql,sqlite" />
+    <img src="https://skillicons.dev/icons?i=python,flask,java,c,css,html,js,mysql,sqlite" />
   </a>
 </p>
 

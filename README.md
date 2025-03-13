@@ -24,8 +24,8 @@
 
 ### 📊 GitHub Stats:
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=naokimura4&show_icons=true&theme=dracula" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naokimura4&layout=compact&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=douglas-wesley&show_icons=true&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglas-wesley&layout=compact&theme=dracula" />
 </div>
 
 ---

@@ -15,8 +15,10 @@
 
 ### 🛠️ Technologies & Tools:
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,flask,java,c,css,html,js,mysql,sqlite" />
+  <a href="https://go-skill-icons.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=python,django,html,css,js,java,spring,git,github,linux,ubuntu,vim,figma,mysql,sqlite"
+    />
   </a>
 </p>
 

@@ -1,7 +1,7 @@
 <h1 align="center">Hello! I'm Douglas Wesley</h1>
 
 <p align="center">
-  I'm a backend developer focused on building APIs RESTful using Python with Django or Java with Spring Boot. I'm currently pursuing a degree in Information Systems at the Federal Rural University of Pernambuco in Recife.
+  I'm a backend developer specializing in Python and Java, with experience in building sophisticated, high-performance applications. I'm currently enhancing my skills through a degree in Information Systems at the Federal Rural University of Pernambuco.
 </p>
 
 ---
@@ -17,7 +17,7 @@
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=python,django,java,spring,linux,mysql,sqlite,postgresql,docker"
+      src="https://go-skill-icons.vercel.app/api/icons?i=python,django,fastapi,flask,java,spring,hibernate,linux,mysql,postgresql,mongo,docker"
     />
   </a>
 </p>

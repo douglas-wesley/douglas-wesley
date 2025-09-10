@@ -17,7 +17,7 @@
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=python,django,fastapi,flask,java,spring,hibernate,linux,mysql,postgresql,mongo,docker"
+      src="https://go-skill-icons.vercel.app/api/icons?i=python,django,fastapi,flask,pandas,java,spring,linux,mysql,postgresql,mongo,docker"
     />
   </a>
 </p>
@@ -34,8 +34,7 @@
 
 ### 📫 Where to Find Me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/douglas-wesley/)/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/naokimura4)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/o_naoki_/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/douglas-wesley)
 
 ---
 

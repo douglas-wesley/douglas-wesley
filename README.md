@@ -13,22 +13,25 @@
 
 ---
 
-### 🛠️ Technologies & Tools:
-<p align="center">
-  <a href="https://go-skill-icons.vercel.app/">
-    <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=python,django,fastapi,flask,pandas,java,spring,linux,mysql,postgresql,mongo,docker"
-    />
-  </a>
-</p>
+### Tecnologies and Tools
 
+| Category | Icon |
+| :--- | :--- |
+| **Languages** | ![](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) |
+| **Frameworks** | ![](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) |
+| **DataBases** | ![](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| **DevOps** | ![](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
+
+
+
+<!-- Em manutenção
 ---
-
 ### 📊 GitHub Stats:
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=douglas-wesley&show_icons=true&theme=dracula" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglas-wesley&layout=compact&theme=dracula" />
 </div>
+-->
 
 ---
 

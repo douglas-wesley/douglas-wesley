@@ -24,14 +24,9 @@
 
 
 
-<!-- Em manutenção
 ---
 ### 📊 GitHub Stats:
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=douglas-wesley&show_icons=true&theme=dracula" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglas-wesley&layout=compact&theme=dracula" />
-</div>
--->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=douglas-wesley&theme=tokyonight&hide_border=true&border_radius=20&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ---
 
